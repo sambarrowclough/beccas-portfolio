@@ -23,3 +23,4 @@ prompt # 2:
 We know bookkeeping can be a tiresome, thankless task, especially when there are so many other things you could be doing – like watching cat videos on YouTube. It’s okay, we do it too. So, by outsourcing the job to us, you can spend more time on those important matters. If we haven’t already, we look forward to starting this long-time partnership today. We’ll be right with you. 
 
 back to prompt # 1:
+
