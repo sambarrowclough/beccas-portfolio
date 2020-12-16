@@ -7,12 +7,6 @@ cover: /3.jpg
 
 <!--more-->
 
-
-Writer	Rebecca Hope
-Voice	Male, American
-Music	1930s style
-Audio messages play continuously, on a loop. The caller hears whatever part of the message is playing at that moment. Throughout the message, background music is played. 
-
 # prompt # 1:
 Welcome to Hotel Gotham – an exciting escape to the 1930s. We’re the perfect combination of fun and wit, with surprises hidden around every corner. Our world exists inside a refurbished bank, where we bring Manhattan to Manchester. We’re abundant in style and substance, delivering adventure on every one of our seven stunning floors. Book your escape today; we won’t be much longer. 
 
