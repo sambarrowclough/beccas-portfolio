@@ -12,7 +12,7 @@ cover: /5.jpg
 
 The thought of a warzone injury typically conjures up images of severed arms and legs – perhaps even trench foot and PTSD may spring to mind – but hearing loss is often forgotten. This is because many people are not aware of the permanent damage caused to a soldier’s hearing during their service. It is this injury that many soldiers believe to be among their worst.
 
-Hearing loss, tinnitus and hyperacusis
+### Hearing loss, tinnitus and hyperacusis
 
 During their service, military personnel are exposed to a variety of extremely loud noises guaranteed to damage their hearing. The use of machine guns, artillery and explosives are even used during training exercises where the hearing damage begins.
 
@@ -22,7 +22,7 @@ Hearing loss is the one injury that affects more military personnel than any oth
 
 In the past, soldiers would often find their issued earplugs would fall out or get lost and instead would have to make do with cotton wool or a couple of ‘tab ends’. Today, soldiers are offered ear defenders and moulded earplugs to defend their ears. However, this can prevent them from hearing crucial commands or any immediate dangers nearby.
 
-Grounds for making a claim
+### Grounds for making a claim
 
 If it can be proven that there was a breach by the Ministry of Defence in its duty of care, all of these conditions can be grounds for making a claim. 
 
