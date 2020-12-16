@@ -2,6 +2,8 @@
 
 `baseURL = "https://g1eny0ung.site"`
 
+avatar = "/a.jpg"
+
 The site URL, ensure this is correct!
 
 `languageCode = "zh-Hans"`

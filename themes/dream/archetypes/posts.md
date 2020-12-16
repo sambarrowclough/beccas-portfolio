@@ -3,7 +3,7 @@ title: {{ replace .TranslationBaseName "-" " " | title }}
 date: {{ .Date }}
 lastmod: {{ .Date }}
 author: Author Name
-# avatar: /img/author.jpg
+avatar: /a.jpg
 # authorlink: https://author.site
 cover: /img/cover.jpg
 categories:

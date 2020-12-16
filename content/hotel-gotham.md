@@ -3,6 +3,7 @@ title: Hotel Gotham
 author: Rebecca Hope
 date: 2016-06-12
 cover: /3.jpg
+avatar: /a.jpg
 ---
 
 <!--more-->

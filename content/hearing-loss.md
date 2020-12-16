@@ -3,6 +3,7 @@ title: Hearing loss - the cost of war for British troops
 author: Rebecca Hope
 date: 2019-03-12
 cover: /5.jpg
+avatar: /a.jpg
 ---
 
 

@@ -19,7 +19,7 @@
 
   author = "g1eny0ung"
   description = "g1eny0ung 的生活记录～"
-  avatar = "/me/yy.jpg"
+  avatar = "/a.jpg"
   headerTitle = "g1eny0ung 的博客"
   motto = "与其感慨路难行，不如马上出发。"
   categoriesLimitInHeader = 6
@@ -66,7 +66,7 @@ For more details with dark mode related params, see [Dark Mode](dark-mode.md).
 ## Explanation
 
 ### `background = "#ccc"`
-
+avatar = "/a.jpg"
 The site's background.
 
 This param can be used with `backgroundImage`, when the image has not been loaded yet, it will serve as the background color.
@@ -127,7 +127,7 @@ The description field will be used as:
 
 - `<meta name="description" content="g1eny0ung 的生活记录～" />`
 
-### `avatar = "/me/yy.jpg"`
+avatar = "/a.jpg"
 
 Used in Header.
 
