@@ -2,7 +2,7 @@
 title: on-hold marketing demo script
 author: Rebecca Hope
 cover: /2.jpg
-date: October 2017
+date: 2017-10-18
 ---
 
 on-hold marketing demo script	

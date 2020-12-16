@@ -1,7 +1,7 @@
 ---
 title: Everything you need to know about mastermind groups
 author: Rebecca Hope
-date: October 2020
+date: 2020-10-20
 cover: /1.jpg
 ---
 

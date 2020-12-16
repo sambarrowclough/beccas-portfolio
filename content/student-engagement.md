@@ -1,7 +1,7 @@
 ---
 title: Measuring student engagement in higher education
 author: Rebecca Hope
-date: September 2020
+date: 2020-09-02
 cover: /4.jpg
 ---
 
