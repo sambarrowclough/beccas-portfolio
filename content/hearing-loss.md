@@ -1,13 +1,12 @@
 ---
 title: Hearing loss - the cost of war for British troops
 author: Rebecca Hope
-date: March 2019
+date: 2019-03-12
 cover: /5.jpg
 ---
 
 
 <!--more-->
-
 
 
 The thought of a warzone injury typically conjures up images of severed arms and legs – perhaps even trench foot and PTSD may spring to mind – but hearing loss is often forgotten. This is because many people are not aware of the permanent damage caused to a soldier’s hearing during their service. It is this injury that many soldiers believe to be among their worst.
@@ -31,3 +30,13 @@ Philip Goodman was a soldier firing rounds at targets in 2011 ahead of deploymen
 Goodman’s story is just one of many similar cases. Alongside the physical effects of hearing loss, tinnitus and hyperacusis, sufferers also experience emotional effects. As conversations are missed, soldiers find they start to feel isolated, meeting new people becomes extremely difficult and making small talk is almost impossible. 
 
 Loud environments will only make their tinnitus and hyperacusis worse, which is why many sufferers become withdrawn. Again, this only adds to the issue as they become fearful of sound. This hypersensitivity to everyday sounds leads to some individuals developing phonophobia (an unwarranted fear of sound).
+
+# NIHL testing
+
+At MLA, we know that no two cases are the same. That’s why we offer a variety of tests to identify Noise-Induced Hearing Loss, including audiology screening, ENT reports and CERA testing.
+
+Having produced over 40,000 NIHL (Noise-Induced Hearing Loss) medical reports, we place ourselves at the forefront of the industry and pride ourselves on driving innovation and efficiencies throughout our service delivery.
+
+We will advise you on the most appropriate pathway for your client, allowing you to minimise cost wastage on unsuccessful cases and benefit from a quality report every time.
+
+To find out more about our range of NIHL screenings, speak to our dedicated team today.
