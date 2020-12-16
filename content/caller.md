@@ -1,5 +1,5 @@
 ---
-title: on-hold marketing demo script
+title: MNE Accounting Ltd
 author: Rebecca Hope
 cover: /2.jpg
 date: 2017-10-18
