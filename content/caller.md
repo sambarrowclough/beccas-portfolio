@@ -5,9 +5,6 @@ cover: /2.jpg
 date: 2017-10-18
 ---
 
-on-hold marketing demo script	
-MNE Accounting Ltd: 
-
 <!--more-->
 
 # prompt # 1:
